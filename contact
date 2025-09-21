@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Mental Health Helper</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Contact Us</h1>
+    <p>If you have any questions, feel free to reach out!</p>
+
+    <div class="contact-card">
+        <h2>Admin Information</h2>
+        <p><strong>Name:</strong> Nalin Kumar</p>
+        <p><strong>Email:</strong> <a href="mailto:nalinkantamani@gmail.com">nalinkantamani@gmail.com</a></p>
+        <p><strong>Phone:</strong> <a href="tel:+919999999890">+91-9999999890</a></p>
+    </div>
+
+    <a href="index.html">⬅ Back to Home</a>
+</body>
+</html>
